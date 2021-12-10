@@ -1,6 +1,6 @@
 # PINN-CV
  
-This is a code repository in company of "Predicting Voltammetry using Physics-Informed Neural Networks"
+This is a code repository in company of "Predicting Voltammetry using Physics-Informed Neural Networks" submitted to *Journal of Physical Chemistry Letters* 
 
 ![Table of Content Figure](TOC.png)
 
@@ -18,7 +18,7 @@ This repository has four folders for the four cases illustrated in the paper. Th
 * 1D Semi-Infinite: 1D simulation of cyclic voltammetry with semi-infinite boundary condition
 * 1D Thin-Layer: 1D simulation at thin layer cyclic voltammetry
 * 2D Microband: 2D simulation cyclic voltammetry at microband electrode
-* 2D Square Particle: 2D simulation of cyclic voltammetry at a square particle
+* 2D Square Electrode: 2D simulation of cyclic voltammetry at a square electrode
 
 
 # Issue Reports
@@ -27,6 +27,7 @@ Please report any issues/bugs of the code in the discussion forum of the reposit
 
 # Cite
 To cite, please refer to:
+(Cite Information not available yet)
 
 
 
