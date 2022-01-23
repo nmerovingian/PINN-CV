@@ -1,6 +1,6 @@
 # PINN-CV
  
-This is a code repository in company with "Predicting Voltammetry using Physics-Informed Neural Networks" submitted to *The Journal of Physical Chemistry Letters* 
+This is a code repository in company with "Predicting Voltammetry using Physics-Informed Neural Networks" published at *The Journal of Physical Chemistry Letters* 
 
 ![Table of Content Figure](TOC.png)
 
@@ -27,7 +27,7 @@ Please report any issues/bugs of the code in the discussion forum of the reposit
 
 # Cite
 To cite, please refer to:
-(Cite Information not available yet)
+*J. Phys. Chem. Lett. 2022, 13, 2, 536–54*. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c04054)
 
 
 
