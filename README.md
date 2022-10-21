@@ -12,8 +12,7 @@ $ pip install -r requirement.txt
 
 ```
 
-# Content
-This repository has four folders for the four cases illustrated in the paper. They are: 
+
 
 * 1D Semi-Infinite: 1D simulation of cyclic voltammetry with semi-infinite boundary condition
 * 1D Thin-Layer: 1D simulation at thin layer cyclic voltammetry
