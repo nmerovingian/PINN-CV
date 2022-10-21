@@ -21,8 +21,9 @@ $ pip install -r requirement.txt
 
 
 # Animated Simulation
+Please refer to SimulationDynamics.gif 
 
-![Animated Simulation](SimulationDyanmics.gif)
+![Animated Simulation](SimulationDynamics.gif)
 
 # Issue Reports
 Please report any issues/bugs of the code in the discussion forum of the repository or contact the corresponding author of the paper
