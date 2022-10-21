@@ -2,9 +2,7 @@ import tensorflow as tf
 from .layer import GradientLayer
 
 class PINN:
-    """
-    Build a physics informed neural network (PINN) model for Fick's law equation.
-    """
+
 
     def __init__(self, network):
         """
