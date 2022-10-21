@@ -20,6 +20,10 @@ $ pip install -r requirement.txt
 * 2D Square Electrode: 2D simulation of cyclic voltammetry at a square electrode
 
 
+# Animated Simulation
+
+![Animated Simulation](SimulationDyanmics.gif)
+
 # Issue Reports
 Please report any issues/bugs of the code in the discussion forum of the repository or contact the corresponding author of the paper
 
