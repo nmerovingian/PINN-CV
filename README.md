@@ -33,5 +33,9 @@ Please report any issues/bugs of the code in the discussion forum of the reposit
 To cite, please refer to:
 *J. Phys. Chem. Lett. 2022, 13, 2, 536–54*. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c04054)
 
+Since 2022, the authors have explored PINN's application in other fields of electrochemistry:
+* Hydrodynamic voltammetry and channel electrode: [Analyst, 2022,147, 1881-1891](https://doi.org/10.1039/D2AN00456A)
+* 3D cube electrode and best practices of PINN4Electrochemistry: [J. Electroanal. Chem.](https://doi.org/10.1016/j.jelechem.2022.116918)
+* Rotating disk electrode and edge effect: [Anal. Chem. 2023, 95, 34, 12826–12834](https://doi.org/10.1021/acs.analchem.3c01936)
 
 
