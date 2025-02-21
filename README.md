@@ -14,7 +14,7 @@ $ pip install -r requirement.txt
 
 
 
-* 1D Semi-Infinite: 1D simulation of cyclic voltammetry with semi-infinite boundary condition
+* 1D Semi-Infinite: 1D simulation of cyclic voltammetry with semi-infinite boundary condition. A google colab [notebook](https://colab.research.google.com/drive/1INxP7QSkizQmNi9Dnx3AtU2XyFa8CDfx?usp=sharing) is also available. 
 * 1D Thin-Layer: 1D simulation at thin layer cyclic voltammetry
 * 2D Microband: 2D simulation cyclic voltammetry at microband electrode
 * 2D Square Electrode: 2D simulation of cyclic voltammetry at a square electrode
