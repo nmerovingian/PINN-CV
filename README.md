@@ -25,6 +25,10 @@ Please refer to SimulationDynamics.gif
 
 ![Animated Simulation](SimulationDynamics.gif)
 
+# Ready to run Colab Notebook 
+A ready to run Google [*Colab Notebook*](https://colab.research.google.com/drive/1INxP7QSkizQmNi9Dnx3AtU2XyFa8CDfx?usp=sharing) is provided.  
+
+
 # Issue Reports
 Please report any issues/bugs of the code in the discussion forum of the repository or contact the corresponding author of the paper
 
@@ -37,5 +41,6 @@ Since 2022, the authors have explored PINN's application in other fields of elec
 * Hydrodynamic voltammetry and channel electrode: [*Analyst, 2022,147, 1881-1891*](https://doi.org/10.1039/D2AN00456A)
 * 3D cube electrode and best practices of PINN4Electrochemistry: [*J. Electroanal. Chem.* 2022, 925, 116918](https://doi.org/10.1016/j.jelechem.2022.116918)
 * Rotating disk electrode and edge effect: [*Anal. Chem. 2023, 95, 34, 12826–12834*](https://doi.org/10.1021/acs.analchem.3c01936)
+* Rotating ring disk electrode:[*J. Phys. Chem. Lett. 2024, 15, 24, 6315–6324*](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c01258)
 
 
