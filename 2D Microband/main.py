@@ -211,7 +211,7 @@ def main(epochs=50,sigma=40,train=True,saving_directory = './Data',rElectrode=0.
         c = network.predict(txy_test)
         c = c.reshape(x.shape)
 
-        J = - sum((c[:,3] - c[:,0])/ (3*x_i) * y_i)
+        J = - sum((c[:,5] - c[:,0])/ (5*x_i) * y_i)
 
 
 
